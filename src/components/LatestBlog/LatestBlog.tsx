@@ -5,7 +5,7 @@ import BlogCard from "../ui/BlogCard";
 const LatestBlog = ({ blogs }: { blogs: Blog[] }) => {
   return (
     <div>
-      <h1 className="text-4xl text-center my-5">
+      <h1 className="text-4xl text-center mt-8 mb-4 ">
         Latest blog from <span className="text-accent">blogiz</span>
       </h1>
       <p className="text-center text-xl text-gray-400 w-2/4 mx-auto">

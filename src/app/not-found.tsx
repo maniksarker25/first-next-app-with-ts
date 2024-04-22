@@ -2,13 +2,13 @@ import Image from "next/image";
 
 const NotFoundPage = () => {
   return (
-    <div className="w-[90%] mx-auto">
+    <div className="w-[90%] mx-auto my-8 ">
       <Image
-        src="https://freefrontend.com/assets/img/html-css-404-page-templates/Pure-CSS-404-Error-Page.gif"
+        src="https://st2.depositphotos.com/1006899/8089/i/450/depositphotos_80897014-stock-photo-page-not-found.jpg"
         width={1000}
         height={500}
         alt="not found page"
-        className="w-full"
+        className="w-full rounded"
       />
     </div>
   );
