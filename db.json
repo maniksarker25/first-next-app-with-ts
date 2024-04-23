@@ -53,6 +53,15 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "7",
+      "title": "Italy",
+      "description": "This is night Italy",
+      "publish_date": "2024-04-19",
+      "author_name": "Manik Sarker",
+      "blog_image": "https://imgv3.fotor.com/images/blog-cover-image/part-blurry-image.jpg",
+      "total_likes": "100"
     }
   ]
 }
